@@ -44,6 +44,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   The most popular self-hosted uptime monitor. Beautiful reactive UI, 20+ monitor types (HTTP, TCP, Ping, DNS, Docker, etc.), 90+ notification channels, status pages, certificate monitoring, and easy Docker deployment.
 - **[Netdata](https://github.com/netdata/netdata)** [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)  
   Real-time, distributed, self-hosted health monitoring with extensive endpoint checking, alerting, and beautiful dashboards.
+- **[Prometheus](https://github.com/prometheus/prometheus)** [![GitHub stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers)  
+  Industry-standard open-source monitoring & alerting toolkit; pairs with Blackbox Exporter and Alertmanager for full endpoint probing and alerting.
 - **[Upptime](https://github.com/upptime/upptime)** [![GitHub stars](https://img.shields.io/github/stars/upptime/upptime?style=social&color=white)](https://github.com/upptime/upptime/stargazers)  
   Completely free uptime monitor and status page powered purely by GitHub Actions, Issues, and Pages — zero infrastructure required beyond a GitHub repo.
 - **[Cachet](https://github.com/cachethq/cachet)** [![GitHub stars](https://img.shields.io/github/stars/cachethq/cachet?style=social&color=white)](https://github.com/cachethq/cachet/stargazers)  
@@ -64,12 +66,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   Enterprise-grade open-source monitoring platform with extensive website/service checks, alerting, and visualization.
 - **[Prometheus + Blackbox Exporter](https://github.com/prometheus/blackbox_exporter)** [![GitHub stars](https://img.shields.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers)  
   Industry-standard combination for probing HTTP, HTTPS, DNS, TCP, ICMP endpoints and feeding metrics into Prometheus + Alertmanager + Grafana dashboards.
+- **[Cronicle](https://github.com/jhuckaby/Cronicle)** [![GitHub stars](https://img.shields.io/github/stars/jhuckaby/Cronicle?style=social&color=white)](https://github.com/jhuckaby/Cronicle/stargazers)  
+  Multi-server task scheduler & runner with built-in health/status monitoring, web UI, and alerting — great for cron-like checks.
 - **[LibreNMS](https://github.com/librenms/librenms)** [![GitHub stars](https://img.shields.io/github/stars/librenms/librenms?style=social&color=white)](https://github.com/librenms/librenms/stargazers)  
   Auto-discovery network monitoring platform that also includes website/service checks.
+- **[Monitoror](https://github.com/monitoror/monitoror)** [![GitHub stars](https://img.shields.io/github/stars/monitoror/monitoror?style=social&color=white)](https://github.com/monitoror/monitoror/stargazers)  
+  Lightweight wallboard/monitoring tool that aggregates uptime, HTTP, and port checks into a single beautiful dashboard.
+- **[Uptime (fzaninotto)](https://github.com/fzaninotto/uptime)** [![GitHub stars](https://img.shields.io/github/stars/fzaninotto/uptime?style=social&color=white)](https://github.com/fzaninotto/uptime/stargazers)  
+  Classic self-hosted uptime & remote monitoring tool with a simple web UI and email/SMS alerting.
+- **[cState](https://github.com/cstate/cstate)** [![GitHub stars](https://img.shields.io/github/stars/cstate/cstate?style=social&color=white)](https://github.com/cstate/cstate/stargazers)  
+  Static status page generator that runs entirely on GitHub Pages/Actions with zero server cost.
 - **[Icinga 2](https://github.com/Icinga/icinga2)** [![GitHub stars](https://img.shields.io/github/stars/Icinga/icinga2?style=social&color=white)](https://github.com/Icinga/icinga2/stargazers)  
   Enterprise-grade open-source monitoring platform that includes website/service checks and alerting.
+- **[PHP Server Monitor](https://github.com/phpservermon/phpservermon)** [![GitHub stars](https://img.shields.io/github/stars/phpservermon/phpservermon?style=social&color=white)](https://github.com/phpservermon/phpservermon/stargazers)  
+  Self-hosted PHP tool for monitoring websites, services, and custom checks with email/SMS alerts.
 - **[Statping-ng](https://github.com/statping-ng/statping-ng)** [![GitHub stars](https://img.shields.io/github/stars/statping-ng/statping-ng?style=social&color=white)](https://github.com/statping-ng/statping-ng/stargazers)  
   Actively maintained fork of Statping — single Go binary for HTTP/TCP/UDP/ICMP/gRPC monitoring, beautiful customizable status pages, graphs, and many notifiers.
+- **[Vigil](https://github.com/valeriansaliou/vigil)** [![GitHub stars](https://img.shields.io/github/stars/valeriansaliou/vigil?style=social&color=white)](https://github.com/valeriansaliou/vigil/stargazers)  
+  Rust-based microservices uptime monitor with a clean status page and WebSocket live-updates.
 - **[Peekaping](https://github.com/0xfurai/peekaping)** [![GitHub stars](https://img.shields.io/github/stars/0xfurai/peekaping?style=social&color=white)](https://github.com/0xfurai/peekaping/stargazers)  
   Modern Go + React self-hosted uptime monitor supporting HTTP, TCP, Ping, DNS, databases, Docker, gRPC, and branded status pages.
 - **[Kuvasz](https://github.com/kuvasz-uptime/kuvasz)** [![GitHub stars](https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social&color=white)](https://github.com/kuvasz-uptime/kuvasz/stargazers)  
