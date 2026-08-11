@@ -38,37 +38,44 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | [Montastic](https://www.montastic.com/) | $5/mo (Team) | 50 monitors free forever | Bootstrapped (Metadot, 11–50 staff) |
 
 ## Open-Source GitHub Projects
-- **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**  
-  The most popular self-hosted uptime monitor (90k+ stars). Beautiful reactive UI, 20+ monitor types (HTTP, TCP, Ping, DNS, Docker, etc.), 90+ notification channels, status pages, certificate monitoring, and easy Docker deployment.
-- **[Gatus](https://github.com/TwiN/gatus)**  
-  Lightweight, developer-oriented health dashboard written in Go. YAML config-as-code, advanced conditions (status, body, JSONPath, cert expiry), multi-protocol checks, badges, and very low resource usage.
-- **[Upptime](https://github.com/upptime/upptime)**  
-  Completely free uptime monitor and status page powered purely by GitHub Actions, Issues, and Pages — zero infrastructure required beyond a GitHub repo.
-- **[OpenStatus](https://github.com/openstatusHQ/openstatus)**  
-  Open-source status page + uptime/API monitoring platform with multi-region checks, monitoring-as-code (YAML/Terraform), and self-hostable architecture (AGPL).
-- **[OneUptime](https://github.com/OneUptime/oneuptime)**  
-  Full open-source observability platform replacing multiple SaaS tools: uptime monitoring, status pages, on-call, incident management, logs, traces, metrics, and APM (Apache 2.0).
-- **[Kuvasz](https://github.com/kuvasz-uptime/kuvasz)**  
-  Modern self-hosted uptime & SSL monitoring with status pages, YAML IaC support, full REST API, Prometheus/OpenTelemetry exporters, multi-user, and maintenance windows.
-- **[Statping-ng](https://github.com/statping-ng/statping-ng)**  
-  Actively maintained fork of Statping — single Go binary for HTTP/TCP/UDP/ICMP/gRPC monitoring, beautiful customizable status pages, graphs, and many notifiers.
-- **[Healthchecks](https://github.com/healthchecks/healthchecks)**  
-  Open-source cron job and “dead man’s switch” monitoring (Python/Django). Ideal for scheduled tasks, backups, and background jobs; also self-hostable with a rich dashboard and integrations.
-- **[Prometheus + Blackbox Exporter](https://github.com/prometheus/blackbox_exporter)**  
-  Industry-standard combination for probing HTTP, HTTPS, DNS, TCP, ICMP endpoints and feeding metrics into Prometheus + Alertmanager + Grafana dashboards.
-- **[Cachet](https://github.com/cachethq/cachet)**  
-  Classic open-source status page system focused on clear public communication of service status and incidents.
-- **[Peekaping](https://peekaping.com/)** (open-source)  
-  Modern Go + React self-hosted uptime monitor supporting HTTP, TCP, Ping, DNS, databases, Docker, gRPC, and branded status pages.
-- **[Overcheck](https://github.com/overcheck/overcheck)**  
-  API-first, config-as-code, multi-user self-hosted uptime monitor designed for teams that outgrow single-user tools (Postgres-backed).
+*Sorted by GitHub stars (descending).*
 
-### Additional Strong Open-Source Options
-- **[Checkmate](https://github.com/bluewave-labs/checkmate)** — Modern UI with status pages and optional agent-based monitoring.
-- **[HertzBeat](https://github.com/apache/hertzbeat)** — Apache project for comprehensive monitoring including websites, databases, and network devices.
-- **[Netdata](https://github.com/netdata/netdata)** — Real-time metrics with some endpoint checking capabilities.
-- **[Zabbix](https://github.com/zabbix/zabbix)** / **[Icinga](https://github.com/Icinga/icinga2)** / **[LibreNMS](https://github.com/librenms/librenms)** — Enterprise-grade open-source monitoring platforms that include website/service checks.
-- Community tools built around **InfluxDB + Grafana**, **Node-RED**, or simple scripts using **curl + cron + notification webhooks**.
+- **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
+  The most popular self-hosted uptime monitor. Beautiful reactive UI, 20+ monitor types (HTTP, TCP, Ping, DNS, Docker, etc.), 90+ notification channels, status pages, certificate monitoring, and easy Docker deployment.
+- **[Netdata](https://github.com/netdata/netdata)** [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)  
+  Real-time, distributed, self-hosted health monitoring with extensive endpoint checking, alerting, and beautiful dashboards.
+- **[Upptime](https://github.com/upptime/upptime)** [![GitHub stars](https://img.shields.io/github/stars/upptime/upptime?style=social&color=white)](https://github.com/upptime/upptime/stargazers)  
+  Completely free uptime monitor and status page powered purely by GitHub Actions, Issues, and Pages — zero infrastructure required beyond a GitHub repo.
+- **[Cachet](https://github.com/cachethq/cachet)** [![GitHub stars](https://img.shields.io/github/stars/cachethq/cachet?style=social&color=white)](https://github.com/cachethq/cachet/stargazers)  
+  Classic open-source status page system focused on clear public communication of service status and incidents.
+- **[Gatus](https://github.com/TwiN/gatus)** [![GitHub stars](https://img.shields.io/github/stars/TwiN/gatus?style=social&color=white)](https://github.com/TwiN/gatus/stargazers)  
+  Lightweight, developer-oriented health dashboard written in Go. YAML config-as-code, advanced conditions (status, body, JSONPath, cert expiry), multi-protocol checks, badges, and very low resource usage.
+- **[Checkmate](https://github.com/bluewave-labs/checkmate)** [![GitHub stars](https://img.shields.io/github/stars/bluewave-labs/checkmate?style=social&color=white)](https://github.com/bluewave-labs/checkmate/stargazers)  
+  Modern UI with status pages and optional agent-based monitoring.
+- **[Healthchecks](https://github.com/healthchecks/healthchecks)** [![GitHub stars](https://img.shields.io/github/stars/healthchecks/healthchecks?style=social&color=white)](https://github.com/healthchecks/healthchecks/stargazers)  
+  Open-source cron job and “dead man’s switch” monitoring (Python/Django). Ideal for scheduled tasks, backups, and background jobs; also self-hostable with a rich dashboard and integrations.
+- **[OpenStatus](https://github.com/openstatusHQ/openstatus)** [![GitHub stars](https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social&color=white)](https://github.com/openstatusHQ/openstatus/stargazers)  
+  Open-source status page + uptime/API monitoring platform with multi-region checks, monitoring-as-code (YAML/Terraform), and self-hostable architecture (AGPL).
+- **[OneUptime](https://github.com/OneUptime/oneuptime)** [![GitHub stars](https://img.shields.io/github/stars/OneUptime/oneuptime?style=social&color=white)](https://github.com/OneUptime/oneuptime/stargazers)  
+  Full open-source observability platform replacing multiple SaaS tools: uptime monitoring, status pages, on-call, incident management, logs, traces, metrics, and APM (Apache 2.0).
+- **[HertzBeat](https://github.com/apache/hertzbeat)** [![GitHub stars](https://img.shields.io/github/stars/apache/hertzbeat?style=social&color=white)](https://github.com/apache/hertzbeat/stargazers)  
+  Apache project for comprehensive monitoring including websites, databases, and network devices.
+- **[Zabbix](https://github.com/zabbix/zabbix)** [![GitHub stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers)  
+  Enterprise-grade open-source monitoring platform with extensive website/service checks, alerting, and visualization.
+- **[Prometheus + Blackbox Exporter](https://github.com/prometheus/blackbox_exporter)** [![GitHub stars](https://img.shields.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers)  
+  Industry-standard combination for probing HTTP, HTTPS, DNS, TCP, ICMP endpoints and feeding metrics into Prometheus + Alertmanager + Grafana dashboards.
+- **[LibreNMS](https://github.com/librenms/librenms)** [![GitHub stars](https://img.shields.io/github/stars/librenms/librenms?style=social&color=white)](https://github.com/librenms/librenms/stargazers)  
+  Auto-discovery network monitoring platform that also includes website/service checks.
+- **[Icinga 2](https://github.com/Icinga/icinga2)** [![GitHub stars](https://img.shields.io/github/stars/Icinga/icinga2?style=social&color=white)](https://github.com/Icinga/icinga2/stargazers)  
+  Enterprise-grade open-source monitoring platform that includes website/service checks and alerting.
+- **[Statping-ng](https://github.com/statping-ng/statping-ng)** [![GitHub stars](https://img.shields.io/github/stars/statping-ng/statping-ng?style=social&color=white)](https://github.com/statping-ng/statping-ng/stargazers)  
+  Actively maintained fork of Statping — single Go binary for HTTP/TCP/UDP/ICMP/gRPC monitoring, beautiful customizable status pages, graphs, and many notifiers.
+- **[Peekaping](https://github.com/0xfurai/peekaping)** [![GitHub stars](https://img.shields.io/github/stars/0xfurai/peekaping?style=social&color=white)](https://github.com/0xfurai/peekaping/stargazers)  
+  Modern Go + React self-hosted uptime monitor supporting HTTP, TCP, Ping, DNS, databases, Docker, gRPC, and branded status pages.
+- **[Kuvasz](https://github.com/kuvasz-uptime/kuvasz)** [![GitHub stars](https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social&color=white)](https://github.com/kuvasz-uptime/kuvasz/stargazers)  
+  Modern self-hosted uptime & SSL monitoring with status pages, YAML IaC support, full REST API, Prometheus/OpenTelemetry exporters, multi-user, and maintenance windows.
+- **[Overcheck](https://github.com/overcheck/overcheck)** [![GitHub stars](https://img.shields.io/github/stars/overcheck/overcheck?style=social&color=white)](https://github.com/overcheck/overcheck/stargazers)  
+  API-first, config-as-code, multi-user self-hosted uptime monitor designed for teams that outgrow single-user tools (Postgres-backed).
 
 **Frameworks for building custom systems**: Combine **Uptime Kuma** or **Gatus** with **Prometheus + Grafana**, **Alertmanager**, **n8n/Node-RED** for workflows, and self-hosted status pages for fully owned, unlimited, transparent website monitoring stacks.
 
