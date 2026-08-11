@@ -21,21 +21,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-| Product | Starting Price | Free Tier |
-|:--|:--|:--|
-| [Pingdom](https://www.pingdom.com/) | $16.50/mo (billed annually) | 14-day free trial only — no permanent free tier |
-| [UptimeRobot](https://uptimerobot.com/) | $12/mo (Solo, billed annually) | 50 monitors free forever |
-| [Better Stack](https://betterstack.com/) (formerly Better Uptime) | $29/mo (Responder, billed annually) | 10 monitors + 10 heartbeats free forever |
-| [Uptime.com](https://uptime.com/) | $9/mo (billed annually) | 14-day free trial only — no permanent free tier |
-| [StatusCake](https://www.statuscake.com/) | $20.41/mo (billed annually) | 10 uptime monitors free forever |
-| [Site24x7](https://www.site24x7.com/) | $9/mo (billed annually) | 5 monitors free forever |
-| [Freshping](https://www.freshworks.com/) | Discontinued (March 2026) | N/A — service shut down |
-| [HetrixTools](https://hetrixtools.com/) | $9.95/mo (Professional) | 15 uptime monitors free forever |
-| [Hyperping](https://hyperping.com/) | $29/mo (Essentials) | 20 monitors free forever |
-| [Montastic](https://www.montastic.com/) | $5/mo (Team) | 50 monitors free forever |
-| [Checkly](https://www.checklyhq.com/) | $24/mo (Starter, billed annually) | Hobby $0 — 10 uptime monitors, 1,000 browser checks, 10,000 API checks/mo |
-| [Pulsetic](https://pulsetic.com/) | $9/mo (Solo) | 10 monitors free forever |
-| [Oh Dear](https://ohdear.app/) | €15/mo (Solo, 2 sites) | 10-day free trial only — no permanent free tier |
+| Product | Starting Price | Free Tier | Company Size (Revenue / Valuation) |
+|:--|:--|:--|:--|
+| [Site24x7](https://www.site24x7.com/) | $9/mo (billed annually) | 5 monitors free forever | ~$1.6–3.2B (Zoho Corp. revenue) |
+| [Freshping](https://www.freshworks.com/) | Discontinued (March 2026) | N/A — service shut down | $838.8M (Freshworks revenue) |
+| [Pingdom](https://www.pingdom.com/) | $16.50/mo (billed annually) | 14-day free trial only — no permanent free tier | $796.9M (SolarWinds revenue) |
+| [Checkly](https://www.checklyhq.com/) | $24/mo (Starter, billed annually) | Hobby $0 — 10 uptime monitors, 1,000 browser checks, 10,000 API checks/mo | $32.25M total funding |
+| [Better Stack](https://betterstack.com/) (formerly Better Uptime) | $29/mo (Responder, billed annually) | 10 monitors + 10 heartbeats free forever | $28.6M total funding |
+| [UptimeRobot](https://uptimerobot.com/) | $12/mo (Solo, billed annually) | 50 monitors free forever | ~$6M est. revenue |
+| [StatusCake](https://www.statuscake.com/) | $20.41/mo (billed annually) | 10 uptime monitors free forever | ~$5M est. revenue |
+| [Uptime.com](https://uptime.com/) | $9/mo (billed annually) | 14-day free trial only — no permanent free tier | ~$10.6M est. valuation |
+| [Hyperping](https://hyperping.com/) | $29/mo (Essentials) | 20 monitors free forever | ~$131K est. ARR |
+| [HetrixTools](https://hetrixtools.com/) | $9.95/mo (Professional) | 15 uptime monitors free forever | Bootstrapped (est. <$5M) |
+| [Pulsetic](https://pulsetic.com/) | $9/mo (Solo) | 10 monitors free forever | Bootstrapped (Designmodo) |
+| [Oh Dear](https://ohdear.app/) | €15/mo (Solo, 2 sites) | 10-day free trial only — no permanent free tier | Bootstrapped |
+| [Montastic](https://www.montastic.com/) | $5/mo (Team) | 50 monitors free forever | Bootstrapped (Metadot, 11–50 staff) |
 
 ## Open-Source GitHub Projects
 - **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**  
