@@ -20,32 +20,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Pingdom](https://www.pingdom.com/)**  
-  Established SolarWinds tool for uptime, page-speed waterfalls, multi-step transaction monitoring, and real-user monitoring from 100+ global locations.
-- **[UptimeRobot](https://uptimerobot.com/)**  
-  Popular budget-friendly uptime monitor with a generous free tier (50 monitors), keyword checks, status pages, and broad alerting integrations.
-- **[Better Stack](https://betterstack.com/)** (formerly Better Uptime)  
-  Modern platform combining uptime monitoring, logs, on-call scheduling, incident management, and beautiful status pages.
-- **[Uptime.com](https://uptime.com/)**  
-  Enterprise-oriented monitoring with strong SLA reporting, synthetic checks, and multi-location coverage.
-- **[StatusCake](https://www.statuscake.com/)**  
-  Feature-rich monitoring supporting HTTP, TCP, DNS, SMTP, SSH, page-speed, domain, and SSL checks with status pages.
-- **[Site24x7](https://www.site24x7.com/)**  
-  Comprehensive Zoho/ManageEngine all-in-one suite covering website, synthetic, RUM, server, network, and cloud monitoring.
-- **[Freshping](https://www.freshworks.com/)**  
-  Simple Free-tier focused uptime monitoring (historically popular for 50 free monitors; check current availability).
-- **[HetrixTools](https://hetrixtools.com/)**  
-  Affordable uptime + IP/domain blacklist monitoring with free tier and useful server-oriented features.
-- **[Hyperping](https://hyperping.com/)**  
-  Clean all-in-one monitoring with fast check intervals, on-call, and polished status pages.
-- **[Montastic](https://www.montastic.com/)**  
-  Straightforward website uptime monitoring service focused on simplicity and reliability alerts.
-- **[Checkly](https://www.checklyhq.com/)**  
-  Developer-centric synthetic monitoring and API checks with Playwright, monitoring-as-code, and CI integration.
-- **[Pulsetic](https://pulsetic.com/)**  
-  Modern tool emphasizing beautiful status pages and multi-channel alerting.
-- **[Oh Dear](https://ohdear.app/)**  
-  Developer-friendly monitoring with consistent feature sets across plans and strong alerting.
+
+| Product | Starting Price | Free Tier |
+|:--|:--|:--|
+| [Pingdom](https://www.pingdom.com/) | $16.50/mo (billed annually) | 14-day free trial only — no permanent free tier |
+| [UptimeRobot](https://uptimerobot.com/) | $12/mo (Solo, billed annually) | 50 monitors free forever |
+| [Better Stack](https://betterstack.com/) (formerly Better Uptime) | $29/mo (Responder, billed annually) | 10 monitors + 10 heartbeats free forever |
+| [Uptime.com](https://uptime.com/) | $9/mo (billed annually) | 14-day free trial only — no permanent free tier |
+| [StatusCake](https://www.statuscake.com/) | $20.41/mo (billed annually) | 10 uptime monitors free forever |
+| [Site24x7](https://www.site24x7.com/) | $9/mo (billed annually) | 5 monitors free forever |
+| [Freshping](https://www.freshworks.com/) | Discontinued (March 2026) | N/A — service shut down |
+| [HetrixTools](https://hetrixtools.com/) | $9.95/mo (Professional) | 15 uptime monitors free forever |
+| [Hyperping](https://hyperping.com/) | $29/mo (Essentials) | 20 monitors free forever |
+| [Montastic](https://www.montastic.com/) | $5/mo (Team) | 50 monitors free forever |
+| [Checkly](https://www.checklyhq.com/) | $24/mo (Starter, billed annually) | Hobby $0 — 10 uptime monitors, 1,000 browser checks, 10,000 API checks/mo |
+| [Pulsetic](https://pulsetic.com/) | $9/mo (Solo) | 10 monitors free forever |
+| [Oh Dear](https://ohdear.app/) | €15/mo (Solo, 2 sites) | 10-day free trial only — no permanent free tier |
 
 ## Open-Source GitHub Projects
 - **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**  
