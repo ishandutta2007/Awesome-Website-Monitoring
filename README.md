@@ -2,9 +2,9 @@
   <img src="assets/banner.svg" alt="Awesome Website Monitoring banner" width="100%">
 </p>
 
-# Awesome-Website-Monitoring
+# 🚀 Awesome-Website-Monitoring
 
-## Top Website Monitoring Tools Ecosystem
+## 🌐 Top Website Monitoring Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Uptime Checks, Synthetic Monitoring, Status Pages, Alerting & Performance Observability*
 **Last updated: August 2026**
@@ -13,19 +13,19 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 **Examples** include Pingdom, UptimeRobot, Better Stack, Uptime.com, StatusCake, Site24x7, Freshping, HetrixTools, Hyperping, Montastic (the category leaders and popular options).
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, full data ownership, unlimited monitors, config-as-code, and integration with existing observability stacks — ideal for developers, SREs, homelabbers, and companies building transparent, cost-controlled monitoring solutions.
+**Open-source emphasis** 🛠️: This section is heavily expanded with every major active project for self-hosting, full data ownership, unlimited monitors, config-as-code, and integration with existing observability stacks — ideal for developers, SREs, homelabbers, and companies building transparent, cost-controlled monitoring solutions.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites / GitHub repos.
+Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions factual and link to official sites / GitHub repos.
 
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [☁️ SaaS/Hosted Platforms](#saas-hosted-platforms)
+- [🐙 Open-Source GitHub Projects](#open-source-github-projects)
+- [🙌 How to Contribute](#how-to-contribute)
+- [⚠️ Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
-| Product | Starting Price | Free Tier | Company Size (Revenue / Valuation) |
+| Product 🏢 | Starting Price 💰 | Free Tier 🆓 | Company Size (Revenue / Valuation) 📊 |
 |:--|:--|:--|:--|
 | [Site24x7](https://www.site24x7.com/) | $9/mo (billed annually) | 5 monitors free forever | ~$1.6–3.2B (Zoho Corp. revenue) |
 | [Freshping](https://www.freshworks.com/) | Discontinued (March 2026) | N/A — service shut down | $838.8M (Freshworks revenue) |
@@ -41,8 +41,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | [Oh Dear](https://ohdear.app/) | €15/mo (Solo, 2 sites) | 10-day free trial only — no permanent free tier | Bootstrapped |
 | [Montastic](https://www.montastic.com/) | $5/mo (Team) | 50 monitors free forever | Bootstrapped (Metadot, 11–50 staff) |
 
-## Open-Source GitHub Projects
-*Sorted by GitHub stars (descending).*
+## 🐙 Open-Source GitHub Projects
+*Sorted by GitHub stars ⭐ (descending).*
 
 - **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
   The most popular self-hosted uptime monitor. Beautiful reactive UI, 20+ monitor types (HTTP, TCP, Ping, DNS, Docker, etc.), 90+ notification channels, status pages, certificate monitoring, and easy Docker deployment.
@@ -95,20 +95,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Overcheck](https://github.com/overcheck/overcheck)** [![GitHub stars](https://img.shields.io/github/stars/overcheck/overcheck?style=social&color=white)](https://github.com/overcheck/overcheck/stargazers)  
   API-first, config-as-code, multi-user self-hosted uptime monitor designed for teams that outgrow single-user tools (Postgres-backed).
 
-**Frameworks for building custom systems**: Combine **Uptime Kuma** or **Gatus** with **Prometheus + Grafana**, **Alertmanager**, **n8n/Node-RED** for workflows, and self-hosted status pages for fully owned, unlimited, transparent website monitoring stacks.
+**🏗️ Frameworks for building custom systems**: Combine **Uptime Kuma** or **Gatus** with **Prometheus + Grafana**, **Alertmanager**, **n8n/Node-RED** for workflows, and self-hosted status pages for fully owned, unlimited, transparent website monitoring stacks.
 
-## How to Contribute
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🙌 How to Contribute
+1. 🍴 Fork the repo.
+2. ✍️ Add/edit entries in `README.md` (follow existing format).
+3. 📝 Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. 🚀 Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+⭐ Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Website monitoring tools should be evaluated for false-positive rates, check frequency, data retention, and alerting reliability.
 - Self-hosted open-source solutions require proper security hardening, high availability of the monitoring instance itself, and backup of historical data.
 ---
-**Made for developers, SREs, DevOps engineers, agency owners, and anyone who wants reliable, transparent website & service monitoring.**
-Let's make uptime monitoring more open, self-hostable, and developer-friendly.
+**Made for developers, SREs, DevOps engineers, agency owners, and anyone who wants reliable, transparent website & service monitoring.** 💚
+Let's make uptime monitoring more open, self-hostable, and developer-friendly. 🚀
