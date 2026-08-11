@@ -1,8 +1,18 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome Website Monitoring banner" width="100%">
+  <img src="assets/banner.svg" alt="Awesome Website Monitoring - curated list of uptime monitoring tools, SaaS platforms and open-source projects" width="100%">
 </p>
 
+<!-- SEO meta -->
+<meta name="description" content="A curated list of the best website monitoring and uptime monitoring tools: SaaS platforms with pricing & free tiers, plus open-source self-hosted projects with GitHub stars. Covers uptime checks, synthetic monitoring, status pages, alerting, and performance observability.">
+<meta name="keywords" content="website monitoring, uptime monitoring, uptime tools, synthetic monitoring, status page, statuspage, alerting, pingdom, uptimerobot, better stack, statuscake, site24x7, uptime kuma, gatus, upptime, open-source monitoring, self-hosted monitoring, observability, devops, sre">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Awesome-Website-Monitoring">
+<meta property="og:description" content="Curated list of website & uptime monitoring tools — SaaS platforms with pricing & free tiers, plus open-source GitHub projects sorted by stars.">
+<meta property="og:type" content="website">
+
 # 🚀 Awesome-Website-Monitoring
+
+> ### A curated list of the best **website monitoring** & **uptime monitoring** tools — SaaS platforms *and* open-source projects — covering uptime checks, synthetic monitoring, status pages, alerting, and performance observability.
 
 ## 🌐 Top Website Monitoring Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
