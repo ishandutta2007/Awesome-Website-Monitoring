@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Website Monitoring banner" width="100%">
+</p>
+
 # Awesome-Website-Monitoring
 
 ## Top Website Monitoring Tools Ecosystem
