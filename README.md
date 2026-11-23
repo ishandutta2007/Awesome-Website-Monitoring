@@ -50,6 +50,7 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 | [Pulsetic](https://pulsetic.com/) | $9/mo (Solo) | 10 monitors free forever | Bootstrapped (Designmodo) |
 | [Oh Dear](https://ohdear.app/) | €15/mo (Solo, 2 sites) | 10-day free trial only — no permanent free tier | Bootstrapped |
 | [Montastic](https://www.montastic.com/) | $5/mo (Team) | 50 monitors free forever | Bootstrapped (Metadot, 11–50 staff) |
+| [ZoneBI](https://zonebi.com/en/?src=github-awesome-website-monitoring-en-01) | $12/mo (Lite) | 3 domains free forever (uptime, SSL, DNS, domain expiry, SPF/DKIM/DMARC) | Bootstrapped |
 
 ## 🐙 Open-Source GitHub Projects
 *Sorted by GitHub stars ⭐ (descending).*
